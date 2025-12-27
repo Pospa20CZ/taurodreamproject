@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "projects": "Progetti",
+    "contact": "Contatti",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "TauroDreamProject",
+    "subtitle": "Costruiamo sogni, creiamo futuri",
+    "description": "Un'iniziativa visionaria che unisce menti creative per trasformare idee in progetti di impatto nella musica, cultura e comunità.",
+    "cta": "Esplora Progetti",
+    "secondary_cta": "Scopri di Più"
+  },
+  "home": {
+    "featured_title": "Progetti in Evidenza",
+    "featured_subtitle": "Scopri le nostre iniziative creative che fanno la differenza",
+    "stats": {
+      "projects": "Progetti Attivi",
+      "countries": "Paesi",
+      "community": "Membri della Comunità",
+      "years": "Anni di Impatto"
+    }
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "subtitle": "La Nostra Storia e Missione",
+    "description": "TauroDreamProject è un collettivo di creatori appassionati, innovatori e sognatori uniti da un obiettivo comune: portare cambiamenti positivi attraverso progetti creativi.",
+    "mission_title": "La Nostra Missione",
+    "mission": "Promuovere la creatività, costruire connessioni significative e potenziare le comunità attraverso progetti innovativi che ispirano e trasformano.",
+    "vision_title": "La Nostra Visione",
+    "vision": "Un mondo dove i sogni diventano realtà attraverso la collaborazione, la dedizione e il potere della creatività collettiva.",
+    "values_title": "I Nostri Valori",
+    "values": {
+      "creativity": "Creatività",
+      "creativity_desc": "Abbracciamo l'innovazione e il pensiero originale in tutto ciò che facciamo.",
+      "community": "Comunità",
+      "community_desc": "Costruiamo connessioni forti e sosteniamo la crescita reciproca.",
+      "excellence": "Eccellenza",
+      "excellence_desc": "Puntiamo alla massima qualità in tutti i nostri sforzi.",
+      "impact": "Impatto",
+      "impact_desc": "Creiamo cambiamenti significativi che risuonano oltre i confini."
+    }
+  },
+  "projects": {
+    "title": "I Nostri Progetti",
+    "subtitle": "Esplora le nostre iniziative creative",
+    "view_project": "Vedi Progetto",
+    "learn_more": "Scopri di Più",
+    "melody": {
+      "title": "TauroDreamMelody",
+      "description": "Un viaggio musicale che celebra la diversità culturale e l'espressione artistica attraverso composizioni originali e collaborazioni."
+    },
+    "slovan": {
+      "title": "TauroDreamSlovan",
+      "description": "Connettere le culture slave attraverso il patrimonio condiviso, le tradizioni e le espressioni creative moderne."
+    },
+    "united": {
+      "title": "TauroDreamUnited",
+      "description": "Unire le comunità attraverso progetti collaborativi che trascendono confini e lingue."
+    },
+    "gratitude": {
+      "title": "TauroDreamGratitude",
+      "description": "Un progetto dedicato a diffondere positività e gratitudine attraverso atti di gentilezza e storytelling creativo."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Mettiti in contatto con il nostro team",
+    "name": "Il Tuo Nome",
+    "email": "Indirizzo Email",
+    "subject": "Oggetto",
+    "message": "Il Tuo Messaggio",
+    "send": "Invia Messaggio",
+    "success": "Messaggio inviato con successo!",
+    "error": "Qualcosa è andato storto. Per favore riprova.",
+    "info": {
+      "title": "Connettiamoci",
+      "description": "Hai domande, idee o vuoi collaborare? Ci piacerebbe sentirti.",
+      "email": "hello@taurodreamproject.com",
+      "location": "Comunità Globale"
+    }
+  },
+  "footer": {
+    "description": "Costruiamo sogni, creiamo futuri. Unisciti a noi nel nostro viaggio per fare la differenza.",
+    "quick_links": "Link Rapidi",
+    "projects": "Progetti",
+    "connect": "Connetti",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Resta aggiornato con i nostri ultimi progetti e novità.",
+    "subscribe": "Iscriviti",
+    "email_placeholder": "Inserisci la tua email",
+    "rights": "Tutti i diritti riservati."
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "articles": "Articoli",
+    "projects": "Progetti",
+    "media": "Media",
+    "settings": "Impostazioni",
+    "logout": "Esci",
+    "welcome": "Bentornato, Admin",
+    "overview": "Panoramica",
+    "total_articles": "Totale Articoli",
+    "total_projects": "Totale Progetti",
+    "total_media": "File Media",
+    "recent_activity": "Attività Recente",
+    "create_new": "Crea Nuovo",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "language_select": "Seleziona Lingua"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "back": "Indietro",
+    "next": "Avanti",
+    "previous": "Precedente",
+    "search": "Cerca",
+    "filter": "Filtra"
+  }
+}

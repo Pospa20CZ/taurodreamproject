@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Domů",
+    "about": "O nás",
+    "projects": "Projekty",
+    "contact": "Kontakt",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "TauroDreamProject",
+    "subtitle": "Budujeme sny, tvoříme budoucnost",
+    "description": "Vizionářská iniciativa spojující kreativní mysli k přeměně nápadů na projekty s dopadem v oblasti hudby, kultury a komunity.",
+    "cta": "Prozkoumat projekty",
+    "secondary_cta": "Zjistit více"
+  },
+  "home": {
+    "featured_title": "Doporučené projekty",
+    "featured_subtitle": "Objevte naše kreativní iniciativy, které mění svět",
+    "stats": {
+      "projects": "Aktivní projekty",
+      "countries": "Země",
+      "community": "Členové komunity",
+      "years": "Let působení"
+    }
+  },
+  "about": {
+    "title": "O nás",
+    "subtitle": "Náš příběh a mise",
+    "description": "TauroDreamProject je kolektiv vášnivých tvůrců, inovátorů a snílků spojených společným cílem: přinášet pozitivní změnu prostřednictvím kreativních projektů.",
+    "mission_title": "Naše mise",
+    "mission": "Podporovat kreativitu, budovat smysluplná spojení a posilovat komunity prostřednictvím inovativních projektů, které inspirují a transformují.",
+    "vision_title": "Naše vize",
+    "vision": "Svět, kde se sny stávají realitou díky spolupráci, oddanosti a síle kolektivní kreativity.",
+    "values_title": "Naše hodnoty",
+    "values": {
+      "creativity": "Kreativita",
+      "creativity_desc": "Přijímáme inovace a originální myšlení ve všem, co děláme.",
+      "community": "Komunita",
+      "community_desc": "Budujeme silná spojení a podporujeme vzájemný růst.",
+      "excellence": "Excelence",
+      "excellence_desc": "Usilujeme o nejvyšší kvalitu ve všech našich snahách.",
+      "impact": "Dopad",
+      "impact_desc": "Vytváříme smysluplné změny, které rezonují za hranicemi."
+    }
+  },
+  "projects": {
+    "title": "Naše projekty",
+    "subtitle": "Prozkoumejte naše kreativní iniciativy",
+    "view_project": "Zobrazit projekt",
+    "learn_more": "Zjistit více",
+    "melody": {
+      "title": "TauroDreamMelody",
+      "description": "Hudební cesta oslavující kulturní rozmanitost a umělecký projev prostřednictvím originálních skladeb a spolupráce."
+    },
+    "slovan": {
+      "title": "TauroDreamSlovan",
+      "description": "Propojování slovanských kultur prostřednictvím sdíleného dědictví, tradic a moderních kreativních projevů."
+    },
+    "united": {
+      "title": "TauroDreamUnited",
+      "description": "Spojování komunit prostřednictvím projektů, které překračují hranice a jazyky."
+    },
+    "gratitude": {
+      "title": "TauroDreamGratitude",
+      "description": "Projekt věnovaný šíření pozitivity a vděčnosti prostřednictvím laskavosti a kreativního vyprávění."
+    }
+  },
+  "contact": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Spojte se s naším týmem",
+    "name": "Vaše jméno",
+    "email": "E-mailová adresa",
+    "subject": "Předmět",
+    "message": "Vaše zpráva",
+    "send": "Odeslat zprávu",
+    "success": "Zpráva byla úspěšně odeslána!",
+    "error": "Něco se pokazilo. Zkuste to prosím znovu.",
+    "info": {
+      "title": "Pojďme se spojit",
+      "description": "Máte otázky, nápady nebo chcete spolupracovat? Rádi vás uslyšíme.",
+      "email": "hello@taurodreamproject.com",
+      "location": "Globální komunita"
+    }
+  },
+  "footer": {
+    "description": "Budujeme sny, tvoříme budoucnost. Připojte se k nám na naší cestě měnit svět.",
+    "quick_links": "Rychlé odkazy",
+    "projects": "Projekty",
+    "connect": "Propojení",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Buďte v obraze s našimi nejnovějšími projekty a novinkami.",
+    "subscribe": "Odebírat",
+    "email_placeholder": "Zadejte svůj e-mail",
+    "rights": "Všechna práva vyhrazena."
+  },
+  "admin": {
+    "dashboard": "Přehled",
+    "articles": "Články",
+    "projects": "Projekty",
+    "media": "Média",
+    "settings": "Nastavení",
+    "logout": "Odhlásit se",
+    "welcome": "Vítejte zpět, Admine",
+    "overview": "Přehled",
+    "total_articles": "Celkem článků",
+    "total_projects": "Celkem projektů",
+    "total_media": "Mediální soubory",
+    "recent_activity": "Nedávná aktivita",
+    "create_new": "Vytvořit nové",
+    "edit": "Upravit",
+    "delete": "Smazat",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "language_select": "Vybrat jazyk"
+  },
+  "common": {
+    "loading": "Načítání...",
+    "error": "Došlo k chybě",
+    "back": "Zpět",
+    "next": "Další",
+    "previous": "Předchozí",
+    "search": "Hledat",
+    "filter": "Filtrovat"
+  }
+}

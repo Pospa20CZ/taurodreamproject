@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "TauroDreamProject",
+    "subtitle": "Construindo sonhos, criando futuros",
+    "description": "Uma iniciativa visionária que une mentes criativas para transformar ideias em projetos impactantes em música, cultura e comunidade.",
+    "cta": "Explorar Projetos",
+    "secondary_cta": "Saiba Mais"
+  },
+  "home": {
+    "featured_title": "Projetos em Destaque",
+    "featured_subtitle": "Descubra nossas iniciativas criativas que fazem a diferença",
+    "stats": {
+      "projects": "Projetos Ativos",
+      "countries": "Países",
+      "community": "Membros da Comunidade",
+      "years": "Anos de Impacto"
+    }
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "subtitle": "Nossa História e Missão",
+    "description": "TauroDreamProject é um coletivo de criadores apaixonados, inovadores e sonhadores unidos por um objetivo comum: trazer mudanças positivas através de projetos criativos.",
+    "mission_title": "Nossa Missão",
+    "mission": "Fomentar a criatividade, construir conexões significativas e capacitar comunidades através de projetos inovadores que inspiram e transformam.",
+    "vision_title": "Nossa Visão",
+    "vision": "Um mundo onde os sonhos se tornam realidade através da colaboração, dedicação e o poder da criatividade coletiva.",
+    "values_title": "Nossos Valores",
+    "values": {
+      "creativity": "Criatividade",
+      "creativity_desc": "Abraçamos a inovação e o pensamento original em tudo o que fazemos.",
+      "community": "Comunidade",
+      "community_desc": "Construímos conexões fortes e apoiamos o crescimento mútuo.",
+      "excellence": "Excelência",
+      "excellence_desc": "Buscamos a mais alta qualidade em todos os nossos esforços.",
+      "impact": "Impacto",
+      "impact_desc": "Criamos mudanças significativas que ressoam além das fronteiras."
+    }
+  },
+  "projects": {
+    "title": "Nossos Projetos",
+    "subtitle": "Explore nossas iniciativas criativas",
+    "view_project": "Ver Projeto",
+    "learn_more": "Saiba Mais",
+    "melody": {
+      "title": "TauroDreamMelody",
+      "description": "Uma jornada musical celebrando a diversidade cultural e a expressão artística através de composições originais e colaborações."
+    },
+    "slovan": {
+      "title": "TauroDreamSlovan",
+      "description": "Conectando culturas eslavas através do patrimônio compartilhado, tradições e expressões criativas modernas."
+    },
+    "united": {
+      "title": "TauroDreamUnited",
+      "description": "Unindo comunidades através de projetos colaborativos que transcendem fronteiras e idiomas."
+    },
+    "gratitude": {
+      "title": "TauroDreamGratitude",
+      "description": "Um projeto dedicado a espalhar positividade e gratidão através de atos de bondade e narrativas criativas."
+    }
+  },
+  "contact": {
+    "title": "Contate-nos",
+    "subtitle": "Entre em contato com nossa equipe",
+    "name": "Seu Nome",
+    "email": "Endereço de Email",
+    "subject": "Assunto",
+    "message": "Sua Mensagem",
+    "send": "Enviar Mensagem",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Algo deu errado. Por favor, tente novamente.",
+    "info": {
+      "title": "Vamos Conectar",
+      "description": "Tem perguntas, ideias ou quer colaborar? Adoraríamos ouvir de você.",
+      "email": "hello@taurodreamproject.com",
+      "location": "Comunidade Global"
+    }
+  },
+  "footer": {
+    "description": "Construindo sonhos, criando futuros. Junte-se a nós em nossa jornada para fazer a diferença.",
+    "quick_links": "Links Rápidos",
+    "projects": "Projetos",
+    "connect": "Conectar",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Fique atualizado com nossos projetos e novidades mais recentes.",
+    "subscribe": "Inscrever-se",
+    "email_placeholder": "Digite seu email",
+    "rights": "Todos os direitos reservados."
+  },
+  "admin": {
+    "dashboard": "Painel",
+    "articles": "Artigos",
+    "projects": "Projetos",
+    "media": "Mídia",
+    "settings": "Configurações",
+    "logout": "Sair",
+    "welcome": "Bem-vindo de volta, Admin",
+    "overview": "Visão Geral",
+    "total_articles": "Total de Artigos",
+    "total_projects": "Total de Projetos",
+    "total_media": "Arquivos de Mídia",
+    "recent_activity": "Atividade Recente",
+    "create_new": "Criar Novo",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "language_select": "Selecionar Idioma"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "search": "Pesquisar",
+    "filter": "Filtrar"
+  }
+}

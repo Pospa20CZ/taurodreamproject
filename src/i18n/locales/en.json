@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "TauroDreamProject",
+    "subtitle": "Building Dreams, Creating Futures",
+    "description": "A visionary initiative bringing together creative minds to transform ideas into impactful projects across music, culture, and community.",
+    "cta": "Explore Projects",
+    "secondary_cta": "Learn More"
+  },
+  "home": {
+    "featured_title": "Featured Projects",
+    "featured_subtitle": "Discover our creative initiatives making a difference",
+    "stats": {
+      "projects": "Active Projects",
+      "countries": "Countries",
+      "community": "Community Members",
+      "years": "Years of Impact"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our Story & Mission",
+    "description": "TauroDreamProject is a collective of passionate creators, innovators, and dreamers united by a common goal: to bring positive change through creative projects.",
+    "mission_title": "Our Mission",
+    "mission": "To foster creativity, build meaningful connections, and empower communities through innovative projects that inspire and transform.",
+    "vision_title": "Our Vision",
+    "vision": "A world where dreams become reality through collaboration, dedication, and the power of collective creativity.",
+    "values_title": "Our Values",
+    "values": {
+      "creativity": "Creativity",
+      "creativity_desc": "Embracing innovation and original thinking in everything we do.",
+      "community": "Community",
+      "community_desc": "Building strong connections and supporting each other's growth.",
+      "excellence": "Excellence",
+      "excellence_desc": "Striving for the highest quality in all our endeavors.",
+      "impact": "Impact",
+      "impact_desc": "Creating meaningful change that resonates beyond boundaries."
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Explore our creative initiatives",
+    "view_project": "View Project",
+    "learn_more": "Learn More",
+    "melody": {
+      "title": "TauroDreamMelody",
+      "description": "A musical journey celebrating cultural diversity and artistic expression through original compositions and collaborations."
+    },
+    "slovan": {
+      "title": "TauroDreamSlovan",
+      "description": "Connecting Slavic cultures through shared heritage, traditions, and modern creative expressions."
+    },
+    "united": {
+      "title": "TauroDreamUnited",
+      "description": "Bringing communities together through collaborative projects that transcend borders and languages."
+    },
+    "gratitude": {
+      "title": "TauroDreamGratitude",
+      "description": "A project dedicated to spreading positivity and appreciation through acts of kindness and creative storytelling."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Something went wrong. Please try again.",
+    "info": {
+      "title": "Let's Connect",
+      "description": "Have questions, ideas, or want to collaborate? We'd love to hear from you.",
+      "email": "hello@taurodreamproject.com",
+      "location": "Global Community"
+    }
+  },
+  "footer": {
+    "description": "Building dreams, creating futures. Join us on our journey to make a difference.",
+    "quick_links": "Quick Links",
+    "projects": "Projects",
+    "connect": "Connect",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Stay updated with our latest projects and news.",
+    "subscribe": "Subscribe",
+    "email_placeholder": "Enter your email",
+    "rights": "All rights reserved."
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "articles": "Articles",
+    "projects": "Projects",
+    "media": "Media",
+    "settings": "Settings",
+    "logout": "Logout",
+    "welcome": "Welcome back, Admin",
+    "overview": "Overview",
+    "total_articles": "Total Articles",
+    "total_projects": "Total Projects",
+    "total_media": "Media Files",
+    "recent_activity": "Recent Activity",
+    "create_new": "Create New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "language_select": "Select Language"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter"
+  }
+}
